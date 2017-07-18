@@ -1,0 +1,16 @@
+comman:
+    server: iot.vidagrid.com
+    
+instance:
+  - url: monitor_influxDB.php
+    items:
+        status: 200
+        respon: success
+        
+  - url: monitor_postgres.php
+    items:
+        status: 200
+        respon: success
+  - url: /
+    items:
+        status: 200

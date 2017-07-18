@@ -1,0 +1,13 @@
+comman:
+
+
+instance:
+  - disk: /data
+    items:
+      - USE
+      - FREE 
+  - disk: /
+    items:
+      - USE
+      - FREE
+      - TOTAL

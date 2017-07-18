@@ -1,0 +1,12 @@
+comman:
+
+instance:
+    - memory: 
+      items:
+        - MemFree 
+        - MemTotal
+        - MemUse
+        - SwapTotal
+        - SwapFree
+#       - SWAPUSE
+        

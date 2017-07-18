@@ -1,0 +1,24 @@
+comman:
+    HOST: 119.28.18.38
+    PORT: 5432
+    USER: delta
+    PASSWD: Delta123
+
+instance:
+  - DB: m3vg
+    items:
+      - connect
+      - inserted
+      - updated
+      - deleted
+      - blks_read
+      - blks_hit
+      
+  - DB: m3lics
+    items:
+      - connect
+      - inserted
+      - updated
+      - deleted
+      - blks_read
+      - blks_hit

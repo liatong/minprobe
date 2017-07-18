@@ -1,0 +1,9 @@
+comman:
+
+instance:
+  - process: vsftpd
+    items:
+  - process: smbd
+    items:
+  - process: vlns_m4Pro
+    items:

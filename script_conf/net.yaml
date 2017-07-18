@@ -1,0 +1,12 @@
+comman:
+
+instance:
+    - device: eth0  
+      items:
+        - INT 
+        - OUT
+        
+    - device: eth1
+      items:
+        - INT
+        - OUT

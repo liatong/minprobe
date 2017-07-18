@@ -1,0 +1,9 @@
+comman:
+
+
+instance:
+  - load:
+    items:
+      - LOAD1
+      - LOAD5
+      - LOAD15

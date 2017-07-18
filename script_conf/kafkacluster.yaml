@@ -1,0 +1,9 @@
+comman:
+
+    
+instance:
+  - server: 172.17.92.141
+    port:  9092
+    topic: monitorTopic
+    groupid: monitor
+    

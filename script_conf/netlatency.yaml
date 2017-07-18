@@ -1,0 +1,10 @@
+comman:
+
+instance:
+    - ip: 119.28.18.38  
+      items:
+        - MAX 
+        - MIN
+        - AVG
+        - LOSS
+        

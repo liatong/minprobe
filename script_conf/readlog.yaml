@@ -1,0 +1,8 @@
+comman:
+
+    
+instance:
+  - file: /usr/lib/nagios/plugins/upload/checklog.log
+    items:
+        key: uploads.status
+        
