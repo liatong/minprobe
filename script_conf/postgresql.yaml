@@ -1,11 +1,11 @@
 comman:
-    HOST: 119.28.18.38
+    HOST: 127.0.1.1
     PORT: 5432
-    USER: delta
-    PASSWD: Delta123
+    USER: user 
+    PASSWD: password
 
 instance:
-  - DB: m3vg
+  - DB: database1
     items:
       - connect
       - inserted
@@ -14,7 +14,7 @@ instance:
       - blks_read
       - blks_hit
       
-  - DB: m3lics
+  - DB: database2
     items:
       - connect
       - inserted

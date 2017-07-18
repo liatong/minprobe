@@ -1,7 +1,7 @@
 comman:
 
 instance:
-    - ip: 119.28.18.38  
+    - ip: 127.0.0.1 
       items:
         - MAX 
         - MIN

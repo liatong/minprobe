@@ -2,7 +2,7 @@ comman:
 
     
 instance:
-  - server: 172.17.92.141
+  - server: 127.0.0.1
     port:  9092
     topic: monitorTopic
     groupid: monitor
